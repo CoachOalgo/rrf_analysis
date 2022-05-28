@@ -1,0 +1,29 @@
+,Field Name,Description
+0,LoanNumber,SBA Loan Number
+1,ApprovalDate,Approval Date
+2,BusinessName,Business Name
+3,BusinessAddress,Business Address
+4,BusinessCity,Business City
+5,BusinessState,Business State
+6,BusinessZip,Business Zip
+7,GrantAmount,Grant Amount
+8,FranchiseName,Franchise Name
+9,RuralUrbanIndicator,Rural or Urban Indicator.  R=Rural; U=Urban
+10,HubzoneIndicator,Hubzone Indicator.  Y=Hubzone
+11,CD,Congressional District
+12,grant_purp_cons_outdoor_seating,Purpose of Grant. 'Y' if box was checked on application
+13,grant_purpose_covered_supplier,
+14,grant_purpose_debt,
+15,grant_purpose_food,
+16,grant_purpose_maintenance_indoor,
+17,grant_purpose_operations,
+18,grant_purpose_payroll,
+19,grant_purpose_rent,
+20,grant_purpose_supplies,
+21,grant_purpose_utility,
+22,LegalOrganizationType,Organization Type
+23,LMIIndicator,LMI Indicator. Y=LMI
+24,SocioeconmicIndicator,Socially and economically disadvantaged individual(s) Indicator.  'Y' if box was checked on application
+25,VeteranIndicator,Veteran Indicator.  'Y' if box was checked on application
+26,WomenOwnedIndicator,Women Owned Business Indicator.  'Y' if box was checked on application
+27,RestaurantType,Restaurant Type.  All restaurant types checked on the application are listed.
